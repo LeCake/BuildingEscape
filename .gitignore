@@ -1,12 +1,12 @@
-BuildingEscape/Content/StarterContent/HDRI
-BuildingEscape/Content/StarterContent/Architecture
-BuildingEscape/Content/StarterContent/Audio
-BuildingEscape/Content/StarterContent/Blueprints
-BuildingEscape/Content/StarterContent/Maps
-BuildingEscape/Content/StarterContent/Materials
-BuildingEscape/Content/StarterContent/Particles
-BuildingEscape/Content/StarterContent/Shapes
-BuildingEscape/Content/StarterContent/Textures
+Content/StarterContent/HDRI
+Content/StarterContent/Architecture
+Content/StarterContent/Audio
+Content/StarterContent/Blueprints
+Content/StarterContent/Maps
+Content/StarterContent/Materials
+Content/StarterContent/Particles
+Content/StarterContent/Shapes
+Content/StarterContent/Textures
 
 # Visual Studio 2015 user specific files
 .vs/
